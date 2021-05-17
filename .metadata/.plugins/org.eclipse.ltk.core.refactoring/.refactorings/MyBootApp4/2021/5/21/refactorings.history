@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;MyBootApp4/src/main/java/jp/te4a/spring/boot/myapp4/MyBootApp4Application.java&apos; to &apos;Application.java&apos;" description="Rename resource &apos;MyBootApp4Application.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/jp/te4a/spring/boot/myapp4/MyBootApp4Application.java" name="Application.java" stamp="1621216559560" updateReferences="true"/>
+</session>
